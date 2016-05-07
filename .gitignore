@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+
+*.tif
+*.avi
+*.p
+*.npy
+*.pkl
+*.png
+*.svg
